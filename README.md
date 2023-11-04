@@ -2,9 +2,9 @@
 
 -- This is the REANME file  --
 
--- The development environment for this job is Windows 10
--- Python 3.8 and Pytorch, torchvision, etc. are used.
--- Developed with jupyter notedbook
+- The development environment for this job is Windows 10
+- Python 3.8 and Pytorch, torchvision, etc. are used.
+- Developed with jupyter notedbook
 
 *** For Task1, you can directly follow the cell order in jupyter notebook, and for given image, you can directly input the image ID to compute the 5 feature vectors and get the feature descriptors.
 
